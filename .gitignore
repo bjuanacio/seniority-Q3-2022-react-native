@@ -1,37 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@bjuanacio 
-Branch master was renamed to main.
-facebook
-/
-react-native
-Public
-Code
-Issues
-1.9k
-Pull requests
-293
-Actions
-Projects
-4
-Wiki
-Security
-Insights
-react-native/template/_gitignore
-@leotm
-leotm Update template to gitignore android/app/.cxx (#34430)
-…
-Latest commit 542d43d on Aug 17
- History
- 10 contributors
-@fson@pvinis@karanjthakkar@danilobuerger@Ghamza-Jd@MoOx@cpojer@cipolleschi@bondehagen@leotm
-64 lines (56 sloc)  898 Bytes
-
 # OSX
 #
 .DS_Store
@@ -96,17 +62,3 @@ buck-out/
 # Ruby / CocoaPods
 /ios/Pods/
 /vendor/bundle/
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
