@@ -13,11 +13,9 @@ const Home = ({navigation}) => {
 
   useEffect(() => {
     setPlayers(data);
-    console.log('Martin1', data);
   }, [data]);
 
   const handleChangeText = value => {
-    console.log('Martin2', value.toLowerCase());
     const searchPlayer = players.filter(
       x => x.firstName === value.toLowerCase(),
     );
